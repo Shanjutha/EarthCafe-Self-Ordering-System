@@ -13,4 +13,6 @@ The logo is saved under the variable defined as "logo". It is used in EarthCafe.
 
 Once you have made these changes, you will be able to successfully execute the implementation. 
 
+LINK TO VIDEO DEMO: https://youtu.be/YOlO4sO5-9Q
+
 Thank you!
